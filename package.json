@@ -18,7 +18,7 @@
     "lint": "standard --fix | snazzy"
   },
   "dependencies": {
-    "@clinic/bubbleprof": "^8.0.0",
+    "@clinic/bubbleprof": "^9.0.0",
     "@clinic/doctor": "^9.0.0",
     "@clinic/flame": "^11.0.0",
     "@clinic/heap-profiler": "^3.0.0",
